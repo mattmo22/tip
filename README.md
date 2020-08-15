@@ -1,6 +1,6 @@
 # Pre-work - *tip*
 
-**ti** is a tip calculator application for iOS.
+**tip** is a tip calculator application for iOS.
 
 Submitted by: Matthew Mogannam
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Matthew Mogannam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
